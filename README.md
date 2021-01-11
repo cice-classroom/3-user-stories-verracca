@@ -4,4 +4,4 @@ In your project's organization's board create user stories and prioritize them. 
 
 Add a link to the repository here in the README.
 
-Link: <YOUR_REPOSITORY>
+Link: https://github.com/orgs/CICE-MVR/projects/2
